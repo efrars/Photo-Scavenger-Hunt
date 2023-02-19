@@ -22,7 +22,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNlMjE1OThhY2Q0NWIzNTVmOWZjOTNkNDk2MTUyNGUxN2Y5YWM3NiZjdD1n/Nlx9adO0FnWtwoVJcj/giphy.gif
 
 ## Notes
 
