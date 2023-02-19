@@ -23,8 +23,11 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
+
+https://user-images.githubusercontent.com/93145681/219906126-186ff36b-764c-45d1-9cad-f32cda82b1e6.mov
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-![](https://github.com/efrars/Photo-Scavenger-Hunt/blob/main/giphy.gif)
