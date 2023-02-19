@@ -27,4 +27,4 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 
-![](https://github.com/Photo-Scavenger-Hunt/giphy.gif)
+![](https://github.com/efrars/Photo-Scavenger-Hunt/blob/main/giphy.gif)
