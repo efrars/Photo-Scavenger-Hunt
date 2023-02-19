@@ -27,4 +27,4 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 
-https://submissions.us-east-1.linodeobjects.com/ios102/Y8ypn5P-.gif
+![](https://github.com/Photo-Scavenger-Hunt/giphy.gif)
